@@ -1,5 +1,5 @@
 # Rosen-CEAUG
-Steyr AUG implementation for Rimworld CE
+![Preview Image](About/Preview.png "Preview")
 
 ## Which?
 Currently the A1.
