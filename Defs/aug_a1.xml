@@ -4,7 +4,7 @@
 
 	<ThingDef ParentName="BaseHumanMakeableGun">
 		<defName>Rosen_Gun_A1_AUG</defName>
-		<label>army universal rifle</label>
+		<label>steyr AUG A1</label>
 		<description>A light, bullpup, gas-operated assault rifle chambered in 5.56x45mm NATO. Features a 1.5x telescopic sight.</description>
 		<graphicData>
 			<texPath>BullpupAssaultRifleTII</texPath>
