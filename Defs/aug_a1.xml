@@ -5,7 +5,7 @@
 	<ThingDef ParentName="BaseHumanMakeableGun">
 		<defName>Rosen_Gun_A1_AUG</defName>
 		<label>steyr AUG A1</label>
-		<description>A light, bullpup, gas-operated assault rifle chambered in 5.56x45mm NATO. Features a 1.5x telescopic sight.</description>
+		<description>A light, bullpup, gas-operated assault rifle chambered in 5.56x45mm NATO. Features a 1.5x telescopic sight.  Notable for looking futuristic even millenia after it was originally designed and for the high percentage of polymers used in its construction.</description>
 		<graphicData>
 			<texPath>BullpupAssaultRifleTII</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -22,8 +22,8 @@
 		</statBases>
 		<equippedAngleOffset>45</equippedAngleOffset>
 		<costList>
-			<Steel>40</Steel>
-			<Chemfuel>10</Chemfuel>
+			<Steel>20</Steel>
+			<Chemfuel>40</Chemfuel>
 			<ComponentIndustrial>6</ComponentIndustrial>
 		</costList>
 		<verbs>
@@ -106,4 +106,5 @@
 			</li>
 		</modExtensions>-->
 	</ThingDef>
+
 </Defs>
